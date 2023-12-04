@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Paulo Gabriel</h1>
 <h3 align="center">Sou um estudante de Engenharia da Computação.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
